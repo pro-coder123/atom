@@ -1,0 +1,24 @@
+"*":
+  "atom-ide-terminal":
+    core:
+      mapTerminalsToAutoOpen: true
+  core:
+    disabledPackages: [
+      "vim-mode-plus"
+    ]
+    packagesWithKeymapsDisabled: []
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 17
+  "exception-reporting":
+    userId: "ed0b4d55-899f-4f7b-9acc-428420c8d106"
+  "git-blame":
+    columnWidth: 214
+  "vim-mode-plus":
+    startInInsertMode: true
+  "vk-terminal":
+    toggles:
+      autoClose: true
