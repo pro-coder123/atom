@@ -44,7 +44,7 @@
     "url": "https://github.com/alexcorre/git-blame/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "loophole": "1.0.x",
     "moment": "^2.19.4",
     "react": "^15.6.1",
